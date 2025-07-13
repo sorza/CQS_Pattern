@@ -7,10 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <PackageReference Include="MediatR" Version="13.0.0" />
   </ItemGroup>
 
   <ItemGroup>
+=======
+>>>>>>> 916004cb73b216801d802f3192baac9c9629e6b9
     <ProjectReference Include="..\Aviator.Domain\Aviator.Domain.csproj" />
   </ItemGroup>
 
